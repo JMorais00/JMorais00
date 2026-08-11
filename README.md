@@ -1,16 +1,39 @@
-## Hi there 👋
+# Olá, eu sou a Maria Jayna! 👋
 
-<!--
-**JMorais00/JMorais00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👩‍💻 Desenvolvedora Full Stack | Foco em Soluções Web & Automação
 
-Here are some ideas to get you started:
+Bem-vindo(a) ao meu GitHub! Sou desenvolvedora em formação com foco no ecossistema **JavaScript (Front-end e Back-end)**. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Trago uma bagagem prática em **Suporte Técnico de TI, Gestão de Processos e Automação de Workflows**, o que me permite criar sistemas funcionais orientados a resolver problemas reais de negócios.
+
+🎯 **Objetivo Profissional:** Atuar como **Desenvolvedora Full Stack (CLT ou PJ)** em modelo **100% Home Office / Remoto**.
+
+---
+
+### 🚀 Formação & Estudos
+- 🎓 **Graduação:** Desenvolvimento Back-end — *Universidade Cruzeiro do Sul*
+- 📚 **Curso Prático:** Desenvolvimento Full Stack — *Mimo Pro*
+
+---
+
+### 🛠️ Mapeamento de Tecnologias
+
+- **Foco Principal (Full Stack):** JavaScript, Node.js, HTML5, CSS3, Git & GitHub.
+- **Diferenciais & Ferramentas:** Python, Docker, n8n (Automações) e manipulação de bancos de dados.
+
+---
+
+### 📌 Trilha de Projetos em Desenvolvimento
+
+1. **Gerador de Cartão Digital** *(HTML, CSS, JS)*
+2. **Gerador de Contratos** *(Templates Dinâmicos & Lógica JS)*
+3. **Buscador de Filmes por Humor** *(Consumo de APIs Assíncronas)*
+4. **Sistema de Ordem de Serviço** *(API Node.js & Banco de Dados)*
+5. **Plataforma de Agendamentos** *(Full Stack com Autenticação JWT)*
+6. **Portal de Laudos Técnicos** *(Full Stack, PDFs & Webhooks)*
+
+---
+
+### 📬 Contato & Conexão
+- 💼 **LinkedIn:** [Maria Jayna Morais Marques](https://www.linkedin.com/in/maria-jayna-m-9949a110b)
+- 🏠 **Disponibilidade:** 100% Remoto (PJ / CLT)
