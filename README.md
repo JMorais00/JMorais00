@@ -30,7 +30,7 @@ Trago uma bagagem prática em **Suporte Técnico de TI, Gestão de Processos e A
 3. **Buscador de Filmes por Humor** *(Consumo de APIs Assíncronas)*
 4. **Sistema de Ordem de Serviço** *(API Node.js & Banco de Dados)*
 5. **Plataforma de Agendamentos** *(Full Stack com Autenticação JWT)*
-6. **Portal de Laudos Técnicos** *(Full Stack, PDFs & Webhooks)*
+6. **Painel Admin / CRM de Vendas** * (Full Stack, CRUD Relacional, Agregação SQL & JWT)*
 
 ---
 
