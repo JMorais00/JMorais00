@@ -25,12 +25,13 @@ Trago uma bagagem prática em **Suporte Técnico de TI, Gestão de Processos e A
 
 ### 📌 Trilha de Projetos em Desenvolvimento
 
-1. **Gerador de Cartão Digital** *(HTML, CSS, JS)*
-2. **Gerador de Contratos** *(Templates Dinâmicos & Lógica JS)*
-3. **Buscador de Filmes por Humor** *(Consumo de APIs Assíncronas)*
-4. **Sistema de Ordem de Serviço** *(API Node.js & Banco de Dados)*
-5. **Plataforma de Agendamentos** *(Full Stack com Autenticação JWT)*
-6. **Painel Admin / CRM de Vendas** *(Full Stack, CRUD Relacional, Agregação SQL & JWT)*
+1. **Portfólio Interativo** *(HTML, CSS e JS DOM)*
+2. **Gerador de Cartão Digital** *(HTML, CSS, JS)*
+3. **Gerador de Contratos** *(Templates Dinâmicos & Lógica JS)*
+4. **Buscador de Filmes por Humor** *(Consumo de APIs Assíncronas)*
+5. **Sistema de Ordem de Serviço** *(API Node.js & Banco de Dados)*
+6. **Plataforma de Agendamentos** *(Full Stack com Autenticação JWT)*
+7. **Painel Admin / CRM de Vendas** *(Full Stack, CRUD Relacional, Agregação SQL & JWT)*
 
 ---
 
